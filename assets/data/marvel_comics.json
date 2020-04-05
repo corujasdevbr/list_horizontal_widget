@@ -1,0 +1,54 @@
+{
+    "data": {
+        "results": [
+            {
+                "id": 17233,
+                "name": "A-Babies Vs. X-Babies (2012)",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/54aed1e6f101b",
+                    "extension": "jpg"
+                }
+            },
+            {
+                "id": 20606,
+                "name": "A-Force (2016)",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/570bde5514b01",
+                    "extension": "jpg"
+                }
+            },
+            {
+                "id": 19245,
+                "name": "A-Force (2015)",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/553a60c8bcc98",
+                    "extension": "jpg"
+                }
+            },
+            {
+                "id": 3620,
+                "name": "A-Next (1998 - 1999)",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/5a85ca6caeb9f",
+                    "extension": "jpg"
+                }
+            },
+            {
+                "id": 27272,
+                "name": "Absolute Carnage (2019 - Present)",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5d83a25d80adb",
+                    "extension": "jpg"
+                }
+            },
+            {
+                "id": 27720,
+                "name": "Absolute Carnage Vs. Deadpool (2019)",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5d546c6f94ea0",
+                    "extension": "jpg"
+                }
+            }
+        ]
+    }
+}
